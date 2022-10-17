@@ -1,4 +1,4 @@
-<h3 align="center">I'm a computer science student from Egypt.</h3>
+<h3 align="center">Hi 👋,I'm Menna and a computer science student from Egypt.</h3>
 
 <p align="left">
 </p>
