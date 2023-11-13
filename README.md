@@ -1,4 +1,5 @@
-<h3 align="center">Hellow 👋,My name is Menna Adel and I'm currently a student specializing in embedded systems.I've always been passionate about technology, particulary in the field of embedded systems.</h3>
+<h3 align="center">Hellow 👋,My name is Menna Adel and I'm currently a student specializing in embedded systems.
+  I've always been passionate about technologies, particulary in the field of embedded systems.</h3>
 
 <p align="left">
 </p>
